@@ -26,6 +26,7 @@ ExeFile Resizer works by taking an input .exe file and allowing you to specify a
 ## Limitations
 * File Size Limitations: The tool can only resize files within the file size limits set by your system (typically 4 GB).
 * Not Suitable for All File Types: ExeFile Resizer only works with .exe files and may not function correctly with other file formats.
+* File size **increase** only. No reduction.
 ## Feedback & Support
 We value your feedback! If you encounter any issues or have feature requests, feel free to `create an issue` or `start a discussion` GitHub page.
 
