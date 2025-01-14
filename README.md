@@ -6,7 +6,7 @@ ExeFile Resizer is a utility designed to resize .exe files, allowing you to easi
 * Resize .exe Files: Increase the size of .exe files to the desired size.
 * Intuitive Interface: User-friendly system interface with simple steps to modify file size.
 * Windows Compatibility: Works on different versions of Windows, ensuring broad usability.
-* Safe and Secure: Verified on VirusTotal, ensuring no hidden threats in the tool.
+* Safe and Secure: [Verified on VirusTotal](https://www.virustotal.com/gui/file/d7cfb98c11a51154abedff761426d936492e22a3537a8a20efb999d01367f4b6/detection), ensuring no hidden threats in the tool.
 * Quick Processing: Modifications are completed swiftly, without delays.
 ## How it Works
 ExeFile Resizer works by taking an input .exe file and allowing you to specify a target size. The tool will then append data to the file until it reaches the specified size. The integrity of the original executable is preserved, and the resulting file remains functional.
@@ -28,9 +28,9 @@ ExeFile Resizer works by taking an input .exe file and allowing you to specify a
 * Not Suitable for All File Types: ExeFile Resizer only works with .exe files and may not function correctly with other file formats.
 * File size **increase** only. No reduction.
 ## Feedback & Support
-We value your feedback! If you encounter any issues or have feature requests, feel free to `create an issue` or `start a discussion` GitHub page.
+I value your feedback:) If you encounter any issues or have feature requests, feel free to `create an issue` or `start a discussion` GitHub page.
 
 ## Version History
 v1.0.0 - Initial release of ExeFile Resizer.
 ## Credits
-Author: @DexonOff
+Author: @DexonOff (github/tg)
