@@ -267,4 +267,4 @@ I value your feedback:) If you encounter any issues or have feature requests, fe
 ## Version History
 v1.0.0 - Initial release of ExeFile Resizer.
 ## Credits
-Author: @DexonOff (github/tg)
+Author: @DexonOff (GitHub/Tg)
